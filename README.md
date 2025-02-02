@@ -4,7 +4,7 @@ The Wild Oasis is a hotel management application that is designed to manage hote
 
 ## Deployed Version
 
-Visit the application at [https://thewildoasis-lgope.netlify.app](https://thewildoasis-lgope.netlify.app)
+Visit the application at [https://the-wild-oasis-one-lake.vercel.app/](https://the-wild-oasis-one-lake.vercel.app/)
 
 ## Demo Account
 
