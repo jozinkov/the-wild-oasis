@@ -15,8 +15,9 @@ You can access the application with following demo account:
 
 ## Features
 
-- Authentication + Authorization Creating new users
+- Authentication + Authorization
 
+  - Creating new users
   - Users of the application are hotel employees.
   - Users can upload their avatar, and change their name and password.
 
